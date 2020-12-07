@@ -43,7 +43,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Inside Outt</h1>
+      <h1>Emoji Genius!!</h1>
 
       <input onChange={emojiInputHandler}></input>
 

@@ -6,3 +6,16 @@ input {
   padding: 1rem;
   width: 80%;
 }
+
+body {
+  background-color: #1d1b1b;
+  color: #ec4d37;
+  padding: 1rem;
+  margin: 1rem;
+}
+h3 {
+  padding-top: 6rem;
+}
+h2 {
+  padding-top: 1rem;
+}
